@@ -169,9 +169,7 @@ class aglaeaSkill:
 - [萌娘百科 - 阿格莱雅](https://mzh.moegirl.org.cn/%E9%98%BF%E6%A0%BC%E8%8E%B1%E9%9B%85)
 - [BWiki - 星穹铁道](https://wiki.biligame.com/zzz/)
 - [百度贴吧-阿格莱雅](https://baike.baidu.com/item/%E9%98%BF%E6%A0%BC%E8%8E%B1%E9%9B%85/)
-- [Huahouse话屋](https://huahouse.asia/index.php/594/)，(https://huahouse.asia/index.php/436/)，(https://huahouse.asia/index.php/944/)
-- 游戏内剧情和语音台词
-- 社区玩家整理资料
+- [Huahouse话屋](https://huahouse.asia/)
 
 ### 特别感谢
 
