@@ -62,10 +62,10 @@
 from skill_manager import SkillManager
 
 skill_manager = SkillManager()
-skill_manager.load_skill("cyrene")
+skill_manager.load_skill("aglaea")
 
 # 激活阿格莱雅角色
-response = skill_manager.activate("cyrene", user_input="你好，阿格莱雅")
+response = skill_manager.activate("aglaea", user_input="你好，阿格莱雅")
 print(response)
 ```
 
@@ -106,7 +106,7 @@ Aglaea/
 
 ```python
 # 示例：自定义集成
-class cyreneSkill:
+class aglaeaSkill:
     def __init__(self):
         self.profile = self.load_file("profile.md")
         self.personality = self.load_file("personality.md")
